@@ -9,6 +9,7 @@ b
 c
 d
 e
+<<<<<<< HEAD
 
 f
 
@@ -17,3 +18,6 @@ cvb
 dfg
 ert
 fg
+=======
+f
+>>>>>>> parent of 0ffea8c... deleted two files
